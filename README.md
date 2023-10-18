@@ -8,7 +8,9 @@ Welcome to the Tello_drone_Astar_python_path_planning repository. This project i
 Before diving into the source code and running the provided Python scripts, it's essential to set up the appropriate environment:
 1.Dependencies & Libraries:
 
-Ensure you've installed all the necessary libraries and dependencies. The list might vary based on the system and the exact nature of the project, so refer to the requirements.txt file .
+Ensure you've installed all the necessary libraries and dependencies. The list might vary based on the system and the exact nature of the project, so refer to the requirements.txt file.
+
+
 2.System Requirements:
 
 Depending on your operating system and its configuration, you might need to install certain libraries or tools in advance. We recommend checking the compatibility and versions to avoid any runtime issues.

@@ -1,8 +1,8 @@
-# Tello Drone A* Path Planning in Python
+## Tello Drone A* Path Planning in Python
 Welcome to the Tello_drone_Astar_python_path_planning repository. This project is dedicated to integrating A* path planning algorithms with the DJI Tello drone, using Python as the primary programming language. Our aim is to ensure smooth navigation and advanced maneuverability for the Tello drone by leveraging the capabilities of the A* algorithm.
 
 
-##Prerequisites and Installation
+## Prerequisites and Installation
 
 
 Before diving into the source code and running the provided Python scripts, it's essential to set up the appropriate environment:

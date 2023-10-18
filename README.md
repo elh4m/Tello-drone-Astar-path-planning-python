@@ -22,3 +22,8 @@ pip install -r requirements.txt
 
 mpl_toolkits is actually a part of matplotlib, so you don't need to install it separately. Including matplotlib should suffice.
 heapq, random, time, math, and os are part of the Python Standard Library since they come with Python by default.
+
+## Getting Started
+Once the environment is set up:
+1. Power up and connect your DJI Tello drone.
+2. run the python script.
